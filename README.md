@@ -1,3 +1,15 @@
+ 💫 Hi 👋, I'm Sudiksha Aslesha
+**Pursuing Data Science Course**
+
+Email Me 👉 ✉️ **sudiksha.aslesha10@gmail.com** for collaboration, projects, or queries 😊
+
+- 🔭 **I’m currently working on:** Data Analysis & Machine Learning practice projects  
+- 🌱 **I’m currently learning:** MySQL, NumPy, Pandas, Matplotlib, Seaborn, SciPy, Scikit-learn, Statistics, Machine Learning ,NLP,Deep Learning 
+- 👯 **I’m looking to collaborate on:** Data Analysis, Machine Learning & real-world Data Science projects  
+- 🤔 **I’m looking for help with:** Data analysis & preprocessing,Advanced Machine Learning concepts & model deployment  
+- 💬 **Ask me about:** Python, Data Analysis, SQL, Machine Learning basics  
+- 📫 **How to reach me:** sudiksha.aslesha10@gmail.com 
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/sudiksha-aslesha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudiksha.aslesha10@gmail.com) 
