@@ -39,4 +39,10 @@ Email Me 👉 ✉️ **sudiksha.aslesha10@gmail.com** for collaboration, project
 ---
 [![](https://visitcount.itsvg.in/api?id=sudikshaaslesha10&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## Open to opportunities in:
+
+Data Analyst roles
+Junior Data Scientist roles
+Business Analytics
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
