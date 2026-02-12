@@ -3,11 +3,11 @@
 
 Email Me 👉 ✉️ **sudiksha.aslesha10@gmail.com** for collaboration, projects, or queries 😊
 
-- 🔭 **Completed:** Data Analysis & Machine Learning practice projects  
+- 🔭 **Completed:** Data Science & Analytics 
 - 🌱 **Experience in:** MySQL, NumPy, Pandas, Matplotlib, Seaborn, SciPy, Scikit-learn, Statistics, Machine Learning ,NLP,Deep Learning 
 - 👯 **I’m looking to collaborate on:** Data Analysis, Machine Learning & real-world Data Science projects  
-- 🤔 **I’m looking for help with:** Data analysis & preprocessing,Advanced Machine Learning concepts & model deployment  
-- 💬 **Ask me about:** Python, Data Analysis, SQL, Machine Learning basics  
+- 🤔 **Experience with :** Data analysis & preprocessing, EDA, Advanced Machine Learning concepts & model deployment  
+- 💬 **Skilled in:** Python, Data Analysis, SQL, Machine Learning basics  
 - 📫 **Email:** sudiksha.aslesha10@gmail.com 
 
 
@@ -39,7 +39,7 @@ Email Me 👉 ✉️ **sudiksha.aslesha10@gmail.com** for collaboration, project
 ---
 [![](https://visitcount.itsvg.in/api?id=sudikshaaslesha10&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Open to opportunities in:
+### Open to opportunities in:
 
 - Data Analyst roles
 - Junior Data Scientist
