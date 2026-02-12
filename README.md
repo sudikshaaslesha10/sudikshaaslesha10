@@ -41,8 +41,8 @@ Email Me 👉 ✉️ **sudiksha.aslesha10@gmail.com** for collaboration, project
 
 ## Open to opportunities in:
 
-Data Analyst roles
-Junior Data Scientist roles
-Business Analytics
+- Data Analyst roles
+- Junior Data Scientist
+- Business Analytics
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
