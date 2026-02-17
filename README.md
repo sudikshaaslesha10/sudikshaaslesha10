@@ -1,5 +1,4 @@
  💫 Hi 👋, I'm Sudiksha Aslesha
-**Pursuing Data Science Course**
 
 Email Me 👉 ✉️ **sudiksha.aslesha10@gmail.com** for collaboration, projects, or queries 😊
 
