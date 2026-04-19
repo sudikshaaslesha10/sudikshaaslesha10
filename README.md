@@ -19,10 +19,47 @@ Email Me 👉 ✉️ **sudiksha.aslesha10@gmail.com** for collaboration, project
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+# 🚀 Featured Projects
 
+## 📊 1. Invoice Intelligence ML System  
+🔗 [View Project](https://github.com/sudikshaaslesha10/Invoice_Intelligence_ML_Project)  
+
+**Tech:** Python, ETL, Machine Learning, Streamlit  
+- Built an end-to-end ML system to predict freight costs and detect risky invoices  
+- Developed ETL pipelines for data cleaning, transformation, and feature engineering  
+- Implemented regression and classification models to improve financial decision-making  
+- Deployed an interactive web app for real-time insights  
+
+---
+
+## 📈 2. Business Performance Dashboard (Power BI)  
+🔗 [View Dashboard](https://github.com/sudikshaaslesha10/Zomato_Dashboard)
+
+**Tech:** Power BI, DAX, Power Query, Data Modeling  
+- Designed an interactive dashboard to track KPIs and analyze business performance  
+- Built data models and automated data transformation workflows  
+- Enabled dynamic filtering, drill-down analysis, and insight generation  
+
+---
+
+## 📦 3. Logistics Optimization Analysis  
+🔗 [View Project](https://github.com/sudikshaaslesha10/Flipkart-Logistics-Optimization--SQL)  
+
+**Tech:** SQL, Data Analysis  
+- Analyzed delivery performance and identified operational bottlenecks  
+- Optimized logistics efficiency through data-driven insights  
+- Performed complex data transformations and analysis  
+
+---
+
+## 📉 4. Financial Risk Analysis System  
+🔗 [View Project](https://github.com/sudikshaaslesha10/Python-Financial-Risk-Analysis--Goldman_Sachs)  
+
+**Tech:** Python, Statistical Analysis  
+- Built a system to detect high-risk financial behavior using anomaly detection  
+- Visualized transaction patterns and risk indicators  
+- Delivered insights for risk mitigation and monitoring  
 ## 💻 Languages and Tools
-
-## 🛠 Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
