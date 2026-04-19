@@ -27,26 +27,30 @@ Email Me 👉 ✉️ **sudiksha.aslesha10@gmail.com** for collaboration, project
 <p align="center">
   <!-- Invoice Intelligence ML System -->
   <a href="https://github.com/sudikshaaslesha10/Invoice_Intelligence_ML_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=invoice-intelligence-ml-system&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sudikshaaslesha10&repo=Invoice_Intelligence_ML_Project&theme=tokyonight" />
   </a>
 
   <!-- Power BI Dashboard -->
   <a href="https://github.com/sudikshaaslesha10/Zomato_Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PowerBI-Project-Zomato&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sudikshaaslesha10&repo=Zomato_Dashboard&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
   <!-- Logistics Optimization -->
   <a href="https://github.com/sudikshaaslesha10/Flipkart-Logistics-Optimization--SQL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=MY-SQL-Project---Logistics-optimization&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sudikshaaslesha10&repo=Flipkart-Logistics-Optimization--SQL&theme=tokyonight" />
   </a>
 
   <!-- Financial Risk Analysis -->
   <a href="https://github.com/sudikshaaslesha10/Python-Financial-Risk-Analysis--Goldman_Sachs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Financial-Risk-Analysis-with-Python&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sudikshaaslesha10&repo=Python-Financial-Risk-Analysis--Goldman_Sachs&theme=tokyonight" />
   </a>
 </p>
+
+
+ 
+  
 
 
 
