@@ -13,11 +13,14 @@ Email Me 👉 ✉️ **sudiksha.aslesha10@gmail.com** for collaboration, project
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/sudiksha-aslesha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudiksha.aslesha10@gmail.com) 
 
-<!-- Snake Game Repo View -->
+<!-- Gamified GitHub Section -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sudikshaaslesha10&theme=tokyonight" />
+</p>
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudikshaaslesha10&theme=tokyo-night" />
+</p>
 
 # 🚀 Featured Projects
 
