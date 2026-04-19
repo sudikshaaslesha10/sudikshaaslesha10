@@ -21,44 +21,36 @@ Email Me 👉 ✉️ **sudiksha.aslesha10@gmail.com** for collaboration, project
 
 # 🚀 Featured Projects
 
-## 📊 1. Invoice Intelligence ML System  
-🔗 [View Project](https://github.com/sudikshaaslesha10/Invoice_Intelligence_ML_Project)  
+<h2 align="center">🚀 Featured Projects</h2>
+<p align="center">Data Analytics • Machine Learning • Dashboards • ETL</p>
 
-**Tech:** Python, ETL, Machine Learning, Streamlit  
-- Built an end-to-end ML system to predict freight costs and detect risky invoices  
-- Developed ETL pipelines for data cleaning, transformation, and feature engineering  
-- Implemented regression and classification models to improve financial decision-making  
-- Deployed an interactive web app for real-time insights  
+<p align="center">
+  <!-- Invoice Intelligence ML System -->
+  <a href="https://github.com/YOUR_USERNAME/invoice-intelligence-ml-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=invoice-intelligence-ml-system&theme=tokyonight" />
+  </a>
 
----
+  <!-- Power BI Dashboard -->
+  <a href="https://app.powerbi.com/links/Cr3Vo4p-st?ctid=3fa969f8-33d6-4ee1-95f6-5f4aff885a04&pbi_source=linkShare&bookmarkGuid=ed60715d-3394-418a-bc17-fbe1fcefda51">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PowerBI-Project-Zomato&theme=tokyonight" />
+  </a>
+</p>
 
-## 📈 2. Business Performance Dashboard (Power BI)  
-🔗 [View Dashboard](https://github.com/sudikshaaslesha10/Zomato_Dashboard)
+<p align="center">
+  <!-- Logistics Optimization -->
+  <a href="https://github.com/YOUR_USERNAME/MY-SQL-Project---Logistics-optimization">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=MY-SQL-Project---Logistics-optimization&theme=tokyonight" />
+  </a>
 
-**Tech:** Power BI, DAX, Power Query, Data Modeling  
-- Designed an interactive dashboard to track KPIs and analyze business performance  
-- Built data models and automated data transformation workflows  
-- Enabled dynamic filtering, drill-down analysis, and insight generation  
+  <!-- Financial Risk Analysis -->
+  <a href="https://github.com/YOUR_USERNAME/Financial-Risk-Analysis-with-Python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Financial-Risk-Analysis-with-Python&theme=tokyonight" />
+  </a>
+</p>
 
----
 
-## 📦 3. Logistics Optimization Analysis  
-🔗 [View Project](https://github.com/sudikshaaslesha10/Flipkart-Logistics-Optimization--SQL)  
 
-**Tech:** SQL, Data Analysis  
-- Analyzed delivery performance and identified operational bottlenecks  
-- Optimized logistics efficiency through data-driven insights  
-- Performed complex data transformations and analysis  
 
----
-
-## 📉 4. Financial Risk Analysis System  
-🔗 [View Project](https://github.com/sudikshaaslesha10/Python-Financial-Risk-Analysis--Goldman_Sachs)  
-
-**Tech:** Python, Statistical Analysis  
-- Built a system to detect high-risk financial behavior using anomaly detection  
-- Visualized transaction patterns and risk indicators  
-- Delivered insights for risk mitigation and monitoring  
 ## 💻 Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
