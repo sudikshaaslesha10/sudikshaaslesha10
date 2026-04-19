@@ -53,7 +53,6 @@ Email Me 👉 ✉️ **sudiksha.aslesha10@gmail.com** for collaboration, project
 
 
 # 📊 GitHub Stats:
-## 📊 GitHub Stats
 
 <div align="center">
 
@@ -63,9 +62,6 @@ Email Me 👉 ✉️ **sudiksha.aslesha10@gmail.com** for collaboration, project
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudikshaaslesha10&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00f2ff&text_color=e2e8f0&border_color=1e293b)
 
-</div>
-
----username=sudikshaaslesha10&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sudikshaaslesha10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
