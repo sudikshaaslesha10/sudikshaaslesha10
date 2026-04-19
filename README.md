@@ -14,6 +14,8 @@ Email Me 👉 ✉️ **sudiksha.aslesha10@gmail.com** for collaboration, project
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/sudiksha-aslesha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudiksha.aslesha10@gmail.com) 
 
 <!-- Gamified GitHub Section -->
+## Github Contribution
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sudikshaaslesha10&theme=tokyonight" />
 </p>
@@ -54,10 +56,6 @@ Email Me 👉 ✉️ **sudiksha.aslesha10@gmail.com** for collaboration, project
 
  
   
-
-
-
-
 ## 💻 Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
